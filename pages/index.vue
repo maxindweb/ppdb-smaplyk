@@ -19,7 +19,11 @@
         </v-col>
       </v-row>
       <v-row>
-        <!--  -->
+        <v-card>
+          <v-card-title>
+            
+          </v-card-title>
+        </v-card>
       </v-row>
     </v-container>
   </v-main>
